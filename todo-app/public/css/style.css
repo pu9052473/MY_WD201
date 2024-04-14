@@ -1,0 +1,17 @@
+/* h1 {
+  color:rgb(242, 9, 9);
+}
+
+td {
+  color:cornflowerblue;
+} */
+
+body {
+  font-family:sans-serif;
+  background: white;
+}
+
+/* css propertis for Todo-Item */
+.Todo-Item:hover .trash-icon {
+  display: block;
+}
